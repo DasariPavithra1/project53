@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://thankful-grass-072d31200.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/HW4Ok3hlS4M
 
 ## Azure technologies used for Project
 
